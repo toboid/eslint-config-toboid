@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-toboid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toboid/eslint-config-toboid.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint"
+  ],
+  "author": "Toboid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toboid/eslint-config-toboid/issues"
+  },
+  "homepage": "https://github.com/toboid/eslint-config-toboid#readme"
+}
